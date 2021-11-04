@@ -1,6 +1,6 @@
 # Experimental Evaluation
 
-This repository includes the recorded data sets of the study published in _ and conducted with https://github.com/vjspi/biopatrec.
+This repository includes the recorded data sets of the study published in _An Adaptive Multi-Modal Control Strategy to Attenuate the Limb Position Effect in Myoelectric Pattern Recognition_ and conducted with https://github.com/vjspi/biopatrec.
 
 cal - Calibration data set 
 
